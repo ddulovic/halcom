@@ -1,3 +1,4 @@
 "*op=GET|comp=Unknown|user=|prod=CADCONFORM8-|dept=|ver=|mes="	char [256]
 "get CADCONFORM8"	char [256]
+nova linija
 
