@@ -2,5 +2,6 @@
 "get CADCONFORM8"	char [256]
 nova linija 3
 nova linija 11
+jos jedna linija
 
 
